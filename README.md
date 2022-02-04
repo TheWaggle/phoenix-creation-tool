@@ -3,6 +3,7 @@
 ## phonix app を作成する場合
 
 ```
+mkdir apps
 bin/build.sh
 bin/login.sh
 cd apps
