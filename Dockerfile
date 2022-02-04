@@ -1,5 +1,5 @@
 
-FROM elixir:1.13.2
+FROM elixir:1.12.3
 
 RUN apt-get update
 RUN apt-get -y upgrade
