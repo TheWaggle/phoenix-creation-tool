@@ -4,7 +4,7 @@
 
 ```
 mkdir apps
-bin/build.sh
+bin/setup.sh
 bin/login.sh
 cd apps
 mix phx.new プロジェクト名
