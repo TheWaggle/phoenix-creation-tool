@@ -15,8 +15,8 @@ services:
     environment:
       PORT: "4000"
     volumes:
-      - .:/app
-    working_dir: /app
+      - .:/apps
+    working_dir: /apps
     ports:
       - "4000:4000"
     depends_on:
